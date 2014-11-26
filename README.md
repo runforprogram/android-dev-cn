@@ -12,7 +12,6 @@ android-dev-cn
 Trinea | [trinea ](https://github.com/trinea) | [trinea.cn](http://www.trinea.cn/) | 性能优化 开源项目 
 halzhang | [halzhang ](https://github.com/halzhang) | [halzhang@cnblogs](http://www.cnblogs.com/halzhang) | StartNews作者 
 wyouflf | [wyouflf ](https://github.com/wyouflf) | [wyouflf@oschina](http://my.oschina.net/u/1171837) | xUtils作者
-张兴业 | | [xyz_lmn@csdn](http://blog.csdn.net/xyz_lmn) | 
 代码家 | [daimajia ](https://github.com/daimajia) | [daimajia.com](http://blog.daimajia.com/) |
 stormzhang | [stormzhang ](https://github.com/stormzhang) | [stormzhang](http://stormzhang.github.io/) | 9Gag作者 AndroidDesign Love开源
 郭霖 | | [guolin_blog@csdn](http://blog.csdn.net/guolin_blog) |
